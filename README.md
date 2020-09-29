@@ -1,9 +1,21 @@
-README File
-_________________________________________________________________________________________
+Authors
+--
 
-				Project 3 | Phase 2 | ENPM 661 | Planning for Autonomous Robots |
+	Govind Ajith Kumar
+	UID : 116699488
+	Masters Robotics 
+	University of Maryland
+	College Park
+	Maryland
+	20740 USA
 
-						SUBMISSION : March 20, 2020
+	Rajeshwar NS
+	UID : 116921237
+	Masters Robotics
+	University of Maryland
+	College Park
+	Maryland
+	20740 USA
 
 Youtube
 --
@@ -24,25 +36,6 @@ Note:
 <br/>
 ![](Images/Parent-child_vector_map.png)<br/>
 <br/>
-
-Authors
---
-
-	Govind Ajith Kumar
-	UID : 116699488
-	Masters Robotics 
-	University of Maryland
-	College Park
-	Maryland
-	20740 USA
-
-	Rajeshwar NS
-	UID : 116921237
-	Masters Robotics
-	University of Maryland
-	College Park
-	Maryland
-	20740 USA
 
 Language
 --
